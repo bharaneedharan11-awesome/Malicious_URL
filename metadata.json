@@ -1,0 +1,6 @@
+{
+  "name": "Malicious URL and Phishing Detection System",
+  "description": "Cybersecurity operations dashboard detecting suspicious URL characteristics, phishing indicators, and threat intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
